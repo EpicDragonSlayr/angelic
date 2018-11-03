@@ -1,0 +1,14 @@
+{
+  "id" : "angelic",
+  "version" : "0.0.1",
+  "displayName" : "Angelic Faction",
+  "description" : "Ships and other content to enable the angelic faction in-game.",
+  "dependencies" :  [
+    {
+      "id" : "core"
+    },
+    {
+      "id" : "tribe"
+    }
+  ]
+}

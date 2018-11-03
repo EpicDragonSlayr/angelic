@@ -1,0 +1,7 @@
+{
+  "Centurion": {
+    "hull": "angelic:angelicMedium",
+    "items": "6*rep core:mediumArmor-1 core:bigShield-1 core:fixedBlaster-1",
+    "money": 0
+  }
+}
